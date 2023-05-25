@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Isaiah Sylvester
-- 👀 I’m interested in Digital Photography, Fitness, Film, Music, Computer technology, Javascript & Traveling...
-- 🌱 I’m currently learning React and it's best practices...
-- 💞️ I’m looking to collaborate on projects of all sorts...
-- 📫 How to reach me: contact@isaiahsylvester.com 
+- 👋 Hi, I'm Isaiah Sylvester, a passionate software engineer with a keen interest in web development.
+- 👀 In addition to technology, I have a strong passion for: Linguistic Studies, Fitness, Creative Art, Hiking, Gaming and Photography
+- 🌱 Currently, I'm focused on expanding my skills in Angular as well as deepening my understanding of AWS Cloud through the AWS Cloud Technical Essentials course.
+- 💞️ I'm open to collaborating on exciting projects.
+- 📫 You can reach me at contact@isaiahsylvester.com. Feel free to connect and explore potential opportunities!
 
 <!---
 Isaiahsylnol/Isaiahsylnol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
